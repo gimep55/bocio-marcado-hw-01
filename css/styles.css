@@ -1,0 +1,49 @@
+header nav section {
+  padding: 30px;
+  margin: 10px;
+  background-color: rgb(255, 251, 251);
+}
+.titulo {
+  text-decoration: rgb(248, 249, 249);
+  padding: 100px;
+  margin: 10px;
+  background-color: #2f303a;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+.ordenar {
+  background-color: blue;
+}
+.boton {
+  background-color: rgb(12, 213, 228);
+}
+.direccion {
+  text-decoration: rgb(248, 249, 249);
+  padding: 100px;
+  margin: 10px;
+  background-color: #2f303a;
+  box-sizing: border-box;
+}
+.estilo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+.texto {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
